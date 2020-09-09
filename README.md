@@ -10,9 +10,6 @@
 - Data Science
 - Operating Systems Development
 
-### Meu Spotify 🎧
-[<img src="https://now-playing-t4lyson.vercel.app/api/spotify-playing" alt="Talyson Spotify Playing" width="350" />](https://open.spotify.com/user/t4lyson)
-
 ### Se conecte comigo:
 
 [<img align="left" alt="talyson.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -41,3 +38,7 @@
 
 <br />
 
+[website]: https://talyson.codes
+[twitter]: https://twitter.com/talyson1337
+[instagram]: https://instagram.com/talyson_r
+[linkedin]: https://linkedin.com/in/talyson
