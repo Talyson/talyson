@@ -1,7 +1,7 @@
 ### Olá, eu sou o Talyson, [talyson.codes][website]👋
 
 [![Website](https://img.shields.io/website?label=talyson.codes&style=for-the-badge&url=https%3A%2F%2Ftalyson.codes)](https://talyson.codes)
-[![Twitter Follow](https://img.shields.io/twitter/follow/talyson1337?color=1DA1F2&logo=twitter&style=for-the-badge)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/talyson1337?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftalyson&screen_name=talyson1337)
 
 ## Atualmente finalizando minha graduação em Ciência da Computação, pela UTFPR-MD, tenho interesse nas seguintes areas:
 
